@@ -1,5 +1,5 @@
 ---
-title: 2021-06-12-sheng-yiwu-2020-thetea.pl
+title: Yiwu Old Tree Sheng
 date: 2021-06-12 13:20:04
 tags:
 	- yiwu
@@ -13,3 +13,19 @@ Second steep is more intense and has some pleasant bitterness. The third steepin
 
 
 ![Setup](overview.HEIC)
+For the fourth steeping I increased the steeping time - the tea is much more intense and shows fleshy and mushroomy characteristics. Still, it has a very clean taste.
+
+# Rating
+
+# Tasting Diagram
+
+# Statistics & Reference:
+	- Brewing
+	- Purchased for 
+	- https://thetea.pl/en/produkt/2020-thetea-yiwu-old-tree-sheng-pu-erh/
+
+
+
+![Setup](overview.jpeg)
+
+![Rinsed leaves](rinsed.jpeg)
