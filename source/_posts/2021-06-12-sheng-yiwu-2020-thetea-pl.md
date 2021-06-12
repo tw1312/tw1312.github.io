@@ -12,7 +12,7 @@ The first steep has typical Yiwu tasting notes. Refreshing but still a subtle as
 Second steep is more intense and has some pleasant bitterness. The third steeping is not much different. For all of them I used water at around 96C. The steeping took a few seconds each. 
 
 
-![Setup](overview.HEIC)
+![Setup](overview.jpg)
 For the fourth steeping I increased the steeping time - the tea is much more intense and shows fleshy and mushroomy characteristics. Still, it has a very clean taste.
 
 # Rating
@@ -26,6 +26,6 @@ For the fourth steeping I increased the steeping time - the tea is much more int
 
 
 
-![Setup](overview.jpeg)
+![Setup](overview.jpg)
 
-![Rinsed leaves](rinsed.jpeg)
+![Rinsed leaves](rinsed.jpg)
