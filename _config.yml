@@ -85,7 +85,8 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
-updated_option: 'mtime'
+## I changed it to 'date' due to git workflow see: https://hexo.io/docs/configuration#Date-Time-format
+updated_option: 'date'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
