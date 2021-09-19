@@ -19,7 +19,9 @@ updated: 2021-09-19 12:41:07
 This sample is from the first purchase from pu-erh.sk and I am not disappointed!
 For its young age ({{ year }}) the first unusual impression are the very dark leaves. The [description](https://www.pu-erh.sk/product/rare6-20/) also indicates that the leave material is sourced from very old trees. Sadly, the concrete Province in Yunnan is not provided in the description.
 
-![Rareness6 Setup](setup.jpeg= 400x400)
+![Rareness6 Setup](setup.jpeg =400x400){:height="50%" width="50%"}
+![Rareness6 Setup](setup.jpeg){:height="50%" width="50%"}
+![Rareness6 Setup](setup.jpeg){:height="700px" width="400px"}
 
 
 <!-- more -->
