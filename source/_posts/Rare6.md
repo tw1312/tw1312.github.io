@@ -17,8 +17,7 @@ updated:
 
 
 This sample is from the first purchase from pu-erh.sk and I am not disappointed!
-For its young age ({{ year }}) the first unusual impression are the very dark leaves. The [description](https://www.pu-erh.sk/product/rare6-20/) also indicates that the leave material is sourced 
-from very old trees. Sadly, the concrete Province in Yunnan is not provided in the description.
+For its young age ({{ year }}) the first unusual impression are the very dark leaves. The [description](https://www.pu-erh.sk/product/rare6-20/) also indicates that the leave material is sourced from very old trees. Sadly, the concrete Province in Yunnan is not provided in the description.
 
 ![Rareness6 Setup](setup.jpeg)
 
@@ -56,6 +55,6 @@ In summary I much enjoyed that tea. Even though I expected some more funkiness a
 
 # Statistics & Reference
 - Brewing time: Ranging from seconds to minutes
-- Purchased for {{ purchase.price }} Euro ({{ purchase.gramm }})
+- Purchased for {{ purchase.price }} Euro ({{ purchase.gramm }} g)
 - Vendor & Link: [Rareness 6]( {{ purchase.link }} )
 
