@@ -5,7 +5,7 @@ tags:
 - yiwu
 - sheng
 year: 1999
-updated:
+updated: {{ date }}
 comments: true
 price: 4
 gramm: 100
