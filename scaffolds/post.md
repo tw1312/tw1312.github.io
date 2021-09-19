@@ -4,6 +4,7 @@ date: {{ date }}
 tags:
 - yiwu
 - sheng
+year: 1999
 updated:
 comments: true
 price: 4
@@ -23,8 +24,6 @@ Some js tests
     {% endfor %}
 {% endfor %}
 
-
-TESTSTSS {{custom_data}}
 
 {{ price / gramm * 3.14 }}
 
