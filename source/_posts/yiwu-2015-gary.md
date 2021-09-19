@@ -7,7 +7,7 @@ comments: true
 price: 40
 gramm: 8
 date: 2021-09-05 13:31:07
-updated: 2021-09-19 13:31:07
+updated: 2021-09-20 13:31:07
 ---
 
 This {{ title }} was purchased on my first trip to Yunnan in November 2019.

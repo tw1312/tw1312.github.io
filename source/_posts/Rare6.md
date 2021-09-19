@@ -11,7 +11,7 @@ purchase:
 year: 2020
 price: 4
 gramm: 6
-date: 2021-09-19 12:41:07
+date: 2021-09-20 12:41:07
 updated:
 ---
 
@@ -19,7 +19,7 @@ updated:
 This sample is from the first purchase from pu-erh.sk and I am not disappointed!
 For its young age ({{ year }}) the first unusual impression are the very dark leaves. The [description](https://www.pu-erh.sk/product/rare6-20/) also indicates that the leave material is sourced from very old trees. Sadly, the concrete Province in Yunnan is not provided in the description.
 
-![Rareness6 Setup](setup.jpeg)
+![Rareness6 Setup](setup.jpeg = 250x)
 
 
 <!-- more -->
