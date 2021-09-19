@@ -23,9 +23,9 @@ For its young age ({{ year }}) the first unusual impression are the very dark le
 ![Rareness6 Setup](setup.jpeg){:height="50%" width="50%"}
 ![Rareness6 Setup](setup.jpeg){:height="700px" width="400px"}
 
-![Rareness6 Setup](setup.jpeg){ width=400px }
-![Rareness6 Setup](setup.jpeg){ height=400px }
-![Rareness6 Setup](setup.jpeg){ width=50\% }
+![Rareness6 Setup](setup.jpeg){: width=400px }
+![Rareness6 Setup](setup.jpeg){: height=400px }
+![Rareness6 Setup](setup.jpeg){: width=50\% }
 
 <!-- more -->
 
