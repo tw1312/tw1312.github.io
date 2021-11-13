@@ -15,7 +15,7 @@ gramm: 100
 
 Width Height
 {% asset_img "setup.jpeg" 900 650 "Rareness6 Setup"  %}
-<img src="puerh-test.jpeg" width="400" height="400" alt="Bla" title="bla">
+<img src="setup.jpeg" width="400" height="400" alt="Bla" title="bla">
 
 Preview text here. The title is {{ title }}
 
