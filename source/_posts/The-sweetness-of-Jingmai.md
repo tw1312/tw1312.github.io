@@ -9,7 +9,7 @@ comments: true
 price: 6
 gramm: 6
 date: 2021-11-13 15:21:14
-updated: 2021-12-05 15:21:14
+updated: 2021-11-13 15:21:14
 ---
 
 ![The setup for pu-erh.sk's 2009 Jingmai by Douji](setup.jpeg)
