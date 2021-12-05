@@ -11,7 +11,7 @@ price: 4
 gramm: 100
 ---
 
-![ExamplePicture](puerh-test.jpeg)
+![ExamplePicture](setup.jpeg)
 
 Width Height
 {% asset_img "setup.jpeg" 900 650 "Rareness6 Setup"  %}
