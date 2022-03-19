@@ -13,7 +13,7 @@ updated: 2022-03-19 15:43:17
 
 ![The setup brewing the tea](setup.jpeg)
 
-When you are interested in puerh tea, it is only a question of time when you stumble upon some chinese words that describe the character of tea or some broader concept.
+If you are interested in puerh tea, it is only a question of time when you stumble upon some chinese words that describe the character of tea or some broader concept.
 One of the more famous representatives is `gushu`. The direct translation is "old tree". And you will quickly notice that once a puerh tea has gushu within its description, the price tag will more likely be significantly higher. Why is that? Is the taste worth it?
 
 <!-- more -->
