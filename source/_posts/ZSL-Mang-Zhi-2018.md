@@ -20,7 +20,7 @@ Beforehand, this name was only known to me by reading `Puer Tea: Ancient Caravan
 I can't recommend this book enough, if you want to dive deeper in the culture of puerh drinking and many
 other facts around it. Maybe one day I will write an own post on that book, which it totally deserves.
 Reading this book, Mr. Zheng was introduced as a tea master and became a legend to me.
-And it turned out that he was contacted by a small ![tea shop](https://tea-encounter.com/), that specializes on - well puerh, duh!
+And it turned out that he was contacted by a small [tea shop](https://tea-encounter.com/), that specializes on - well puerh, duh!
 So let's see what ZSL products have to offer.
 
 <!-- more -->
