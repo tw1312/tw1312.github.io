@@ -1,5 +1,5 @@
 ---
-title: YS sample: The sampling begins! 2010 Bu Lang Liming
+title: The sampling begins! 2010 Bu Lang Liming
 tags:
   - ys-sampler-2022
   - bulang
