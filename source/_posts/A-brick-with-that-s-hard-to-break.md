@@ -1,5 +1,5 @@
 ---
-title: A brick with that's hard to break
+title: A brick that's hard to break
 tags:
   - dehong
   - sheng
